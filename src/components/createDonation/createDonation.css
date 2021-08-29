@@ -1,0 +1,22 @@
+.inputForm{
+    height: 35px;
+    /* width: 100%; */
+    border-radius: 6px;
+    direction: rtl;
+    padding-right: 10px;
+   
+}
+.form{
+    direction: rtl;
+    padding-right: 50px;
+
+}
+.button{
+    direction: ltr !important;
+    
+
+    /* padding-left: 60%; */
+}
+.main{
+    padding-left: 750px;
+}

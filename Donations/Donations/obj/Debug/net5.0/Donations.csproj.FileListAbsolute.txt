@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Donations\Donations\obj\Debug\net5.0\Donations.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Donations\Donations\obj\Debug\net5.0\Donations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Donations\Donations\obj\Debug\net5.0\Donations.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Donations\Donations\obj\Debug\net5.0\Donations.AssemblyInfo.cs
+C:\Users\User\Desktop\Donations\Donations\obj\Debug\net5.0\Donations.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Donations\Donations\obj\Debug\net5.0\Donations.MvcApplicationPartsAssemblyInfo.cache

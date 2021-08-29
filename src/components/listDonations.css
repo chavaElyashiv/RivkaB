@@ -1,0 +1,16 @@
+
+.row1{
+    border-bottom: 1px solid black;
+    border-style:solid;
+    border-width:1px;
+    border-color:red;
+
+}
+ th, td {
+   
+    border-bottom: 1px solid black;
+  }
+  table{
+      width:600px;
+    border: 1px solid black;
+  }

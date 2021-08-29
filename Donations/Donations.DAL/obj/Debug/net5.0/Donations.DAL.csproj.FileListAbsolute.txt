@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Donations\Donations.DAL\obj\Debug\net5.0\Donations.DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Donations\Donations.DAL\obj\Debug\net5.0\Donations.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Donations\Donations.DAL\obj\Debug\net5.0\Donations.DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Donations\Donations.DAL\obj\Debug\net5.0\Donations.DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\Donations\Donations.DAL\obj\Debug\net5.0\Donations.DAL.csproj.CoreCompileInputs.cache
